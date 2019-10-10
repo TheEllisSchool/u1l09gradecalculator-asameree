@@ -90,7 +90,7 @@ public class U1L09GradeCal {
 		ElseIf (average > 60);{
 		letterGrade = "D";
 		}
-		if (average < 50){
+		if (average< 50){
 		letterGrade = "F";
 		}
 		return letterGrade;
